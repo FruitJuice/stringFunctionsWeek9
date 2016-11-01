@@ -11,7 +11,6 @@ char upperLetter(char c);
 void upperString(char string[]);
 
 
-
 int main()
 {
 	char random[100];
